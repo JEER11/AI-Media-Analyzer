@@ -12,9 +12,9 @@ A suite of AI-powered tools to enhance media accessibility. It includes automate
  The said dataset is linked and called in all code cells, but the last one. 
 
 
-##### ---------------------------------- ##### 
+#####  ##### 
   #   In each of the cells we have  #
-##### ---------------------------------- ##### 
+#####  ##### 
     Text summarizer, image caption, audio transcript  
           Video transcript and summarizer        
              A media analyzer Web cell        
